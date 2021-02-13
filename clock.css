@@ -2,6 +2,7 @@
 *::after,
 *::before {
     box-sizing: border-box;
+    font-family: 'Lobster', cursive;
 }
 
 body {
@@ -12,6 +13,7 @@ body {
     align-items: center;
     min-height: 100vh;
     overflow: hidden;
+
 }
 
 .clock {
